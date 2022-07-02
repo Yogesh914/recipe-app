@@ -55,7 +55,7 @@ From: https://www.allrecipes.com/recipe/87305/microwave-popcorn/
   std::cout << r << std::endl;
 ~~~
 
-- app.h: This header file needs to contain the declaration and definition of a class named RecipeApp. 
+- app.h: This header file needs to contain the declaration and definition of a class named RecipeApp. This class represents a simple recipe manager that can save recipes and items in a pantry. And can also scale recipes to consume nearly all of a particular ingredient a customer have have.
 
 Example:
 ~~~
